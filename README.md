@@ -2,7 +2,7 @@
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript as part of the Prodigy InfoTech Web Development Internship.
 
 # Live Demo
-
+https://subhmishra9930-cpu.github.io/PRODIGY_WD_03/
 # Features
 1. Classic 3x3 Tic Tac Toe game
 2. Turn-based gameplay (Player X & Player O) also play with ai.
